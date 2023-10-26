@@ -1,0 +1,8 @@
+
+[class*="col"] {
+    background-color: blue;
+    color: aliceblue;
+    padding: 2em;
+    border: 2px solid white;
+    text-align: center;
+}
